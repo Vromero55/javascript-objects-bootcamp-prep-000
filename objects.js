@@ -5,6 +5,6 @@ return playlist;
   }
   function removeFromPlaylist(playlist, artistName){
   delete artistName.song;
-    return removeFromPlaylist(playlist, Prince);
+    return ;
       
   }
